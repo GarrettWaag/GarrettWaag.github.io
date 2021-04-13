@@ -2,7 +2,7 @@
 
 
 ### Artifact
-download:https://garrettwaag.github.io/User_dash.ipynb
+<a href="https://garrettwaag.gitnub.io/User_dash.ipynb">User Dashboard</a>
 ##### Narrative
 
 
