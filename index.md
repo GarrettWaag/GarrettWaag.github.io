@@ -8,7 +8,7 @@
   
 <a href="https://garrettwaag.github.io/Admin_dash.ipynb" download>Admin Dashboard</a>
 ##### Narrative
-
+<a href="https://garrettwaag.github.io/Dash_Narrative.docx" download>Project Narrative</a>
 
 
 
